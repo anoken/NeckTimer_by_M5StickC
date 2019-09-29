@@ -149,8 +149,6 @@ uint16_t getColor(uint8_t red, uint8_t green, uint8_t blue) {
 
 //Wi-Fi Connect
 void wifi_connect() {
-  const char* ssid = "your_ssid";
-  const char* password = "your_passwd";
   WiFi.begin(ssid, password);
   while (WiFi.status() != WL_CONNECTED)  delay(500);
   Serial.println(WiFi.localIP());
