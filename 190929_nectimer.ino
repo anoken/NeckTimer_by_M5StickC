@@ -1,4 +1,4 @@
-// Copyright (c) 2019 aNoken 
+// Copyright (c) 2019 anoken MIT License
 // https://twitter.com/anoken2017
 // Arduino IDE compile code
 // M5StickC Watch Contest
