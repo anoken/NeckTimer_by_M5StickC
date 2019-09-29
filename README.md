@@ -1,7 +1,7 @@
 
 ![image](https://github.com/anoken/NeckTimer_by_M5StickC/blob/master/img/necktimer_img.jpg)
 
-# ネクタイマー　NeckTimer
+# NeckTimer
 
 
 ## 紹介 
